@@ -10,7 +10,7 @@
 
 **Cybersecurity Engineer** with 2 years of experience specializing in **detection engineering**, **threat hunting**, and **compliance frameworks** (CIS, NIST 800-171, SOC2). Currently working at an MSP where I manage security operations across a wide range of environments.
 
-🎯 **Notable Achievement**: Reduced business email compromise (BEC) investigation time by **75%** through automation and improved detection methodologies **[Automation-Repo](https://github.com/Snowy471/tree/main/Automation)**.
+🎯 **Notable Achievement**: Reduced business email compromise (BEC) investigation time by **75%** through automation and improved detection methodologies **[Automation-Repo](https://github.com/Snowy471/Snowy471/tree/main/Automation)**.
 
 ---
 
@@ -27,13 +27,13 @@
 
 ## 📚 Repository Structure
 
-├── 📁 [GRC](https://github.com/Snowy471/tree/main/GRC) - Governance, Risk & Compliance <br>
-├── 📁 [Detection-Engineering](https://github.com/Snowy471/tree/main/Detection-Engineering) - Detection rules and methodologies <br>
-├── 📁 [Threat-Hunting](https://github.com/Snowy471/tree/main/Threat-Hunting) - Hunting queries and techniques <br>
-├── 📁 [Automation](https://github.com/Snowy471/tree/main/Automation) - Security automation scripts <br>
-├── 📁 [Bug-Bounty-Write-Ups](https://github.com/Snowy471/tree/main/Bug-Bounty-Write-Ups) - Bug bounty findings <br>
-├── 📁 [CTF-Write-Ups](https://github.com/Snowy471/tree/main/CTF-Write-Ups) - Capture the flag solutions <br>
-└── 📁 [Research](https://github.com/Snowy471/tree/main/Research) - Security research and findings
+├── 📁 [GRC](https://github.com/Snowy471/Snowy471/tree/main/GRC) - Governance, Risk & Compliance <br>
+├── 📁 [Detection-Engineering](https://github.com/Snowy471/Snowy471/tree/main/Detection-Engineering) - Detection rules and methodologies <br>
+├── 📁 [Threat-Hunting](https://github.com/Snowy471/Snowy471/tree/main/Threat-Hunting) - Hunting queries and techniques <br>
+├── 📁 [Automation](https://github.com/Snowy471/Snowy471/tree/main/Automation) - Security automation scripts <br>
+├── 📁 [Bug-Bounty-Write-Ups](https://github.com/Snowy471/Snowy471/tree/main/Bug-Bounty-Write-Ups) - Bug bounty findings <br>
+├── 📁 [CTF-Write-Ups](https://github.com/Snowy471/Snowy471/tree/main/CTF-Write-Ups) - Capture the flag solutions <br>
+└── 📁 [Research](https://github.com/Snowy471/Snowy471/tree/main/Research) - Security research and findings
 
 ---
 
