@@ -63,8 +63,6 @@ I'm a **Cybersecurity Engineer** with 2+ years of experience specializing in **d
 ### **Current Certifications**
 - 🛡️ **Security+** - CompTIA (Aug 2024)
 - 🌐 **Network+** - CompTIA (Aug 2024)
-
-### **In Progress** 
 - 🔍 **SSCP** - ISC² (Dec 2024)
 - 📊 **CySA+** - CompTIA (Jan 2025)
 - 🔵 **BTL1** - Security Blue Team (Jun 2025)
@@ -89,7 +87,7 @@ I'm a **Cybersecurity Engineer** with 2+ years of experience specializing in **d
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <img src="" />
 </div>
 
 ---
