@@ -94,10 +94,8 @@ I'm a **Cybersecurity Engineer** with 2+ years of experience specializing in **d
 
 ## 🤝 Let's Connect
 
-- 💼 **LinkedIn**: [Your LinkedIn]
-- 🐛 **HackerOne**: [Your HackerOne Profile]
-- 📧 **Email**: [Your Email]
-- 🌐 **Website**: [Your Website]
+- 💼 **LinkedIn**: https://www.linkedin.com/in/josh-snowden/
+- 📧 **Email**: rss@snowdensecurity.com
 
 ---
 
