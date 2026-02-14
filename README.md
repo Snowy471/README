@@ -84,14 +84,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="" />
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 - 💼 **LinkedIn**: https://www.linkedin.com/in/josh-snowden/
