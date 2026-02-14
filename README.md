@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Josh AKA Snowy471
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Engineer;Detection+Engineering+Specialist;Threat+Hunter;SOC+Analyst;Bug+Bounty+Hunter&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG">
