@@ -1,3 +1,13 @@
+# SNOWY471
+
+> **Original Work:** This tool is based on [cazadora](https://github.com/HuskyHacks/cazadora) by [Matt Kiely](https://github.com/HuskyHacks). Licensed under MIT.
+> 
+> **Modifications:** Custom detection patterns for various sussy malicious M365 applications.
+
+---
+
+[rest of the original README content]
+
 # Cazadora
 Simple hunting script for hunting sussy M365 OAuth Apps.
 
