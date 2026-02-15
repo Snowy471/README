@@ -1,7 +1,6 @@
 # Detection Engineering
 
-Collection of detection scripts, hunting tools, and security automation for threat detection and response.
-
+Collection of detection scripts and threat hunting tools.
 ## Tools
 
 ### modified-Cazadora

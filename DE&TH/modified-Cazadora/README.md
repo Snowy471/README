@@ -2,7 +2,9 @@
 
 > **Original Work:** This tool is based on [cazadora](https://github.com/HuskyHacks/cazadora) by [Matt Kiely](https://github.com/HuskyHacks). Licensed under MIT.
 > 
-> **Modifications:** Custom detection patterns for various sussy malicious M365 applications.
+> **Modifications:** 
+> - Custom detection patterns for various sussy malicious M365 applications.
+> - Left out Docker quickstart.
 
 ---
 
