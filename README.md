@@ -28,7 +28,7 @@
 ## 📚 Repository Structure
 
 ├── 📁 [GRC](https://github.com/Snowy471/Snowy471/tree/main/GRC) - Governance, Risk & Compliance <br>
-├── 📁 [Detection-Engineering](https://github.com/Snowy471/Snowy471/tree/main/Detection-Engineering) - Detection rules and methodologies <br>
+├── 📁 [Detection-Engineering](https://github.com/Snowy471/Snowy471/tree/main/DE%26TH) - Detection rules and methodologies <br>
 ├── 📁 [Threat-Hunting](https://github.com/Snowy471/Snowy471/tree/main/Threat-Hunting) - Hunting queries and techniques <br>
 ├── 📁 [Automation](https://github.com/Snowy471/Snowy471/tree/main/Automation) - Security automation scripts <br>
 ├── 📁 [Bug-Bounty-Write-Ups](https://github.com/Snowy471/Snowy471/tree/main/Bug-Bounty-Write-Ups) - Bug bounty findings <br>
